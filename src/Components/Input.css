@@ -90,7 +90,7 @@ input::placeholder{
     outline: none;
     outline-color: var(--light);
     font-weight: 400;
-    color: black;
+    color: rgba(0, 0, 0, 0.941);
 }
 .year>input::placeholder{
     text-align: center;
